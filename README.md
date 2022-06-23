@@ -13,6 +13,9 @@ Today, I am more than ever ready to express my creativity through what I find in
 ## My latest projects
 - 🎵 [**Museek**](https://github.com/axel-lgt/museek): a small project powered by the Genius website API and an Express server in order to find music lyrics.
 
+## Currently working on
+- 💜 [**Meeet**](https://github.com/axel-lgt/meeet-react-js): a dating website based on geolocation made with React, React Redux and with Google Firebase.
+
 ...and many more to come!
 
 ## Languages and tools
@@ -22,6 +25,7 @@ Today, I am more than ever ready to express my creativity through what I find in
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## Contact me!
 <a href="https://www.linkedin.com/in/axel-lgt" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
