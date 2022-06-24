@@ -12,6 +12,7 @@ Today, I am more than ever ready to express my creativity through what I find in
 
 ## My latest projects
 - 🎵 [**Museek**](https://github.com/axel-lgt/museek): a small project powered by the Genius website API and an Express server in order to find music lyrics.
+- 🧑‍🍳 [**Villa Rosa**](https://github.com/axel-lgt/villa-rosa): a small one page showcase website for a mock restaurant, made with React.
 
 ## Currently working on
 - 💜 [**Meeet**](https://github.com/axel-lgt/meeet-react-js): a dating website based on geolocation made with React, React Redux and with Google Firebase.
